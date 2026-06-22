@@ -32,3 +32,6 @@ servers/fastapi/dist/
 servers/fastapi/fastembed_cache/
 servers/fastapi/*.egg-info/
 .codex/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
